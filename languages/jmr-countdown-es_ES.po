@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Count Down Timer for PMPRO Subscription\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-13 08:36+0000\n"
+"PO-Revision-Date: 2020-10-13 08:39+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.3; wp-5.5.1"
+
+#: admin/class-jmr-countdown-admin.php:196
+msgid "Settings"
+msgstr "Ajustes"
+
+#: admin/class-jmr-countdown-admin.php:225
+msgid "Spanish"
+msgstr "Español"
+
+#: admin/class-jmr-countdown-admin.php:226
+msgid "Deustch"
+msgstr "Alemán"
+
+#: admin/class-jmr-countdown-admin.php:227
+msgid "French"
+msgstr "Francés"
+
+#: admin/class-jmr-countdown-admin.php:228
+msgid "Italian"
+msgstr "Italiano"
+
+#: admin/class-jmr-countdown-admin.php:237
+msgid "Settings Saved"
+msgstr "Ajustes Guardados"
+
+#: admin/class-jmr-countdown-admin.php:260
+msgid "Compact Layout"
+msgstr "Estilo compacto"
+
+#: admin/class-jmr-countdown-admin.php:262
+msgid "Enable"
+msgstr "Activado"
+
+#: admin/class-jmr-countdown-admin.php:264
+msgid "Enable Compact layout."
+msgstr "Activar estilo Compacto"
+
+#: admin/class-jmr-countdown-admin.php:269
+msgid "Time format display"
+msgstr "Visualización del formato de la hora"
+
+#: admin/class-jmr-countdown-admin.php:273
+msgid ""
+"You can control how the countdown is presented via the format setting. This "
+"is one or more of the following characters: 'Y' for years, 'O' for months, "
+"'W' for weeks, 'D' for days, 'H' for hours, 'M' for minutes, 'S' for seconds."
+" Use upper-case characters for required fields and the corresponding lower-"
+"case characters for display only if non-zero."
+msgstr ""
+"Puede controlar cómo se presenta la cuenta atrás mediante la configuración "
+"de formato. Utilice uno o más de los siguientes caracteres: 'Y' para años, "
+"'O' para meses, 'W' para semanas, 'D' para días, 'H' para horas, 'M' para "
+"minutos, 'S' para segundos. Utilice caracteres en mayúsculas para los campos "
+"obligatorios y los caracteres en minúsculas correspondientes para mostrar "
+"solo si no son cero."
+
+#: admin/class-jmr-countdown-admin.php:278
+msgid "Select Language"
+msgstr "Seleccionar Idioma"
+
+#: admin/class-jmr-countdown-admin.php:293
+msgid "Change language to fit your site language"
+msgstr "Cambie el idioma para adaptarse al idioma de su sitio"
+
+#: admin/class-jmr-countdown-admin.php:299
+msgid "Custom message"
+msgstr "Mensaje personalizado"
+
+#: admin/class-jmr-countdown-admin.php:304
+msgid "Custom message for <em>ultimate flexibility</em>"
+msgstr "Personalice su mensaje para una <em>máxima flexibilidad</em>"
+
+#: admin/class-jmr-countdown-admin.php:309
+msgid "Custom CSS"
+msgstr "CSS Personalizado"
+
+#: admin/class-jmr-countdown-admin.php:314
+msgid "Custom css for <em>personalize look and feel</em>"
+msgstr ""
+"Css personalizado para <em> personalizar la apariencia y aspecto  </em>"
+
+#: admin/class-jmr-countdown-admin.php:320
+msgid "Save Settings"
+msgstr "Guardar Ajustes"
+
+#: admin/class-jmr-countdown-admin.php:331
+msgid "About"
+msgstr "Sobre"
+
+#. Name of the plugin
+msgid "Count Down Timer for PMPRO Subscription"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This is a short description of what the plugin does. It's displayed in the "
+"WordPress admin area."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://example.com/plugin-name-uri/"
+msgstr ""
+
+#. Author of the plugin
+msgid "1024Mbits.com"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://example.com/"
+msgstr ""

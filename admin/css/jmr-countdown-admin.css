@@ -1,0 +1,7 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.CodeMirror {
+  border: 1px solid #ddd;
+}

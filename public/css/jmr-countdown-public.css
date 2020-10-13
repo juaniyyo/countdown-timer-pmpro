@@ -1,0 +1,29 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+#countdownSandbox-container {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  min-height: 50px;
+  width: 180px;
+  z-index: 10000;
+  background: #23282d;
+  padding: 10px;
+  text-align: center;
+}
+#countdownSandbox-container p {
+  font-family: "Inter var", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, sans-serif;
+  color: #fff;
+  margin: 0;
+  font-size: 16px;
+}
+#countdownSandbox-container p span {
+  display: block;
+  font-size: 22px;
+}
+.is-countdown .countdown-row.countdown-amount {
+  text-transform: uppercase;
+}
+.is-countdown .countdown-row.countdown-descr {}
