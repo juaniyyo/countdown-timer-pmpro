@@ -159,7 +159,7 @@ class Jmr_Countdown_Admin {
 		 * class.
 		 */
 
-		wp_enqueue_script( $this->jmr_countdown, plugin_dir_url( __FILE__ ) . 'js/jmr-countdown-admin.js', array( 'jquery' ), $this->version, false );
+		// wp_enqueue_script( $this->jmr_countdown, plugin_dir_url( __FILE__ ) . 'js/jmr-countdown-admin.js', array( 'jquery' ), $this->version, false );
 
 	}
 
@@ -179,6 +179,8 @@ class Jmr_Countdown_Admin {
 					)
 				) 
 			);
+			wp_enqueue_script( $this->jmr_countdown, plugin_dir_url( __FILE__ ) . 'js/jmr-countdown-admin.js', array( 'jquery' ), $this->version, false );
+
 			wp_localize_script( 'jquery', 'cm_settings', $cm_settings );
 		   
 			wp_enqueue_script( 'wp-theme-plugin-editor' );

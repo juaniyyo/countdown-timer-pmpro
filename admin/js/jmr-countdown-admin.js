@@ -30,11 +30,6 @@
    */
 
   $(function () {
-	// $.get('/wp-content/plugins/jmr-countdown/public/css/jmr-countdown-public.css',  function(data){
-	// 	$('#countdown-timer-css').prepend(data);
-	// 	// now init codemirror 
-	// 	wp.codeEditor.initialize($('#countdown-timer-css'), cm_settings)
-	// })
     wp.codeEditor.initialize($('#countdown-timer-css'), cm_settings)
   })
 })(jQuery);
